@@ -17,7 +17,7 @@ Meu foco é aprofundar meus conhecimentos em desenvolvimento de software, com o 
 </div>
 
 
-##Contato
+## Contato
 
 [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg)](https://www.linkedin.com/in/talles-oliveira-b343162b5)
 
