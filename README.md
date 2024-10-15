@@ -1,9 +1,5 @@
 ## Seja Bem Vindoo!!!
 
-## Talles Gabriel
-
-## Tecnologias e Ferramentas
-
 ### 🛠️ Tecnologias que Utilizo
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
