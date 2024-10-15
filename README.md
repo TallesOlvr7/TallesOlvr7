@@ -6,7 +6,7 @@ Sou um **desenvolvedor backend PHP**, onde meu foco é a criação de API's Rest
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" height="50" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Laravel_logo.svg" alt="Laravel" width="50" height="50" />
+    <img src="https://github.com/laravel/art/blob/master/laravel-logo.svg" alt="Laravel" width="50" height="50" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50" />
