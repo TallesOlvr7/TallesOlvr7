@@ -1,6 +1,7 @@
 ## Seja Bem Vindoo!!!
 
-Sou um **desenvolvedor backend PHP**, onde meu foco é a criação de API's Rest com o framework** Laravel**. Atualmente sou graduando em **Análise e Desenvolvimento de Sistemas** pela **Fatec** e **técnico em informática** pela **ETEC**.
+Sou um **desenvolvedor backend PHP**, onde meu foco é a criação de API's Rest com o framework**Laravel**. Atualmente sou graduando em **Análise e Desenvolvimento de Sistemas** pela **Fatec** e **técnico em informática** pela **ETEC**.
+Meu foco é aprofundar meus conhecimentos em desenvolvimento de software, com o intuito de aplicar as melhores práticas da programação em meus projetos.
 
 ### 🛠️ Tecnologias que Utilizo
 
@@ -14,6 +15,10 @@ Sou um **desenvolvedor backend PHP**, onde meu foco é a criação de API's Rest
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="50" height="50" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50" />
 </div>
+
+
+##Contato
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg)](https://www.linkedin.com/in/talles-oliveira-b343162b5)
 
 
 
