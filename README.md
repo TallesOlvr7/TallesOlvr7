@@ -1,6 +1,6 @@
 ## Seja Bem Vindoo!!!
 
-Sou um **desenvolvedor backend PHP**, onde meu foco é a criação de API's Rest com o framework**Laravel**. Atualmente sou graduando em **Análise e Desenvolvimento de Sistemas** pela **Fatec** e **técnico em informática** pela **ETEC**.
+Sou um **desenvolvedor backend PHP**, onde meu foco é a criação de API's Rest com o framework **Laravel**. Atualmente sou graduando em **Análise e Desenvolvimento de Sistemas** pela **Fatec** e **técnico em informática** pela **ETEC**.
 Meu foco é aprofundar meus conhecimentos em desenvolvimento de software, com o intuito de aplicar as melhores práticas da programação em meus projetos.
 
 ### 🛠️ Tecnologias que Utilizo
